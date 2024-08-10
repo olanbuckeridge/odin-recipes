@@ -7,6 +7,20 @@
 h1 {
     color: darkblue;
     font-weight: bold;
+    text-align: center;
+    border: 2px solid darkblue;
+}
+
+ul {
+    border: 2px solid darkblue;
+}
+
+ol {
+    border: 2px solid darkblue;
+}
+
+li {
+    padding: 8px;
 }
 
 .h1-image {
